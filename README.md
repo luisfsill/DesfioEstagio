@@ -1,4 +1,4 @@
-# Exercícios de Programação
+# Desafio Target Sistemas
 
 Este repositório contém soluções para cinco exercícios de programação em C#, cada um abordando um conceito fundamental de programação. A seguir, estão descrições detalhadas sobre o que cada programa faz.
 
